@@ -1,1 +1,3 @@
 # geom
+
+Understanding Geometry.
