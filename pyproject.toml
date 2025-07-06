@@ -2,7 +2,7 @@
 name = "geom"
 version = "0.1.1"
 dependencies = [
-
+    bpy
 ]
 
 [project.urls]
